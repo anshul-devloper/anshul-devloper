@@ -26,13 +26,14 @@ Here are some ideas to get you started:
 -->
   ![Anshul's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-devloper&theme=ocean_dark&langs_count=10&&border_color=6b03fc)
 
+- 🌱 I write solutions on **LeetCode**
+- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
+- 📫 How to reach me **<a href="mailto:anshulpro27@gmail.com">sachinverma53121@gmail.com</a>**
+
   <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
 
-- 🔭 I’m currently working as an **Software Development Engineer**
-- 🌱 I also write solutions on **LeetCode**
-- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
-- 😄 Employement ... **Open for better full-time offers**
-- 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">sachinverma53121@gmail.com</a>**
+
+
 
