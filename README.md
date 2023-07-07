@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 -->
   ![Anshul's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-devloper&theme=ocean_dark&langs_count=10&&border_color=6b03fc)
 
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🌱 I write solutions on **LeetCode**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
 - 📫 How to reach me **<a href="mailto:anshulpro27@gmail.com">anshulpro27@gmail.com</a>**
