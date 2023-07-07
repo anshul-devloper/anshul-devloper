@@ -4,7 +4,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
   
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!--
 **anshul-devloper/anshul-devloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
   ![Anshul's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-devloper&theme=ocean_dark&langs_count=10&&border_color=6b03fc)
 
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🌱 I write solutions on **LeetCode**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
