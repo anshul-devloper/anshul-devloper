@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
 
+- 🔭 I’m currently working as an **Software Development Engineer**
+- 🌱 I also write solutions on **LeetCode**
+- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
+- 😄 Employement ... **Open for better full-time offers**
+- 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">sachinverma53121@gmail.com</a>**
+
