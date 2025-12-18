@@ -17,36 +17,6 @@ Software Development Engineer with hands-on experience in building **scalable ba
 
 ---
 
-## Technical Expertise
-
-**Languages**
-
-* JavaScript (ES6+), TypeScript
-* C++, Java
-
-**Backend & Systems**
-
-* Node.js, Express.js
-* RESTful API design
-* Service-layer architecture
-
-**Data & Storage**
-
-* MongoDB
-* Schema design, indexing, query optimization
-
-**Foundations**
-
-* Data Structures & Algorithms
-* OOP, SOLID principles
-
-**Tools**
-
-* Git, GitHub
-* Linux, Postman
-
----
-
 ## Engineering Focus
 
 * Building **scalable and reliable backend systems**
