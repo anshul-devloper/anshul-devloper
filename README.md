@@ -44,15 +44,6 @@ Software Development Engineer with hands-on experience in building **scalable ba
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshul-devloper&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-devloper&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Engineering Philosophy
 
 > *Simplicity, correctness, and scalability matter more than cleverness.*
