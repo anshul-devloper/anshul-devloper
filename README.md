@@ -1,84 +1,89 @@
 <div align="center">
-  <img width="100%" height="360" src="https://images.idgesg.net/images/article/2020/05/sale_25313_primary_image_wide-100842650-large.jpg" alt="Cover Image" />
+
+# Anshul Sharma
+
+**Software Development Engineer (SDE‑2)**
+Backend • Distributed Systems • Problem Solving
+
+📧 [anshulpro27@gmail.com](mailto:anshulpro27@gmail.com) · 🐙 github.com/anshul-devloper
+
 </div>
 
-<h1 align="center">
-  Hi, I'm Anshul Sharma 👋
-</h1>
+---
 
-<h3 align="center">
-  Software Engineer • Web Developer • Problem Solver
-</h3>
+## Profile Summary
+
+Software Development Engineer with hands-on experience in building **scalable backend services**, designing **clean APIs**, and working with **data-intensive systems**. Strong foundation in **Data Structures, Algorithms, and system fundamentals**, with a focus on writing production‑ready, maintainable code.
+
+---
+
+## Technical Expertise
+
+**Languages**
+
+* JavaScript (ES6+), TypeScript
+* C++, Java
+
+**Backend & Systems**
+
+* Node.js, Express.js
+* RESTful API design
+* Service-layer architecture
+
+**Data & Storage**
+
+* MongoDB
+* Schema design, indexing, query optimization
+
+**Foundations**
+
+* Data Structures & Algorithms
+* OOP, SOLID principles
+
+**Tools**
+
+* Git, GitHub
+* Linux, Postman
+
+---
+
+## Engineering Focus
+
+* Building **scalable and reliable backend systems**
+* Writing **clean, testable, and maintainable code**
+* Solving problems with attention to **time & space complexity**
+* Understanding trade‑offs in **performance, readability, and scalability**
+
+---
+
+## Problem Solving
+
+* Active problem solver on **LeetCode**
+* Strong command over:
+
+  * Arrays, Strings
+  * Trees & Graphs
+  * Recursion & Dynamic Programming
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="mailto:anshulpro27@gmail.com">📧 Email</a> •
-  <a href="https://leetcode.com/" target="_blank">💻 LeetCode</a> •
-  <a href="https://github.com/anshul-devloper">🐙 GitHub</a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshul-devloper&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-devloper&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Engineering Philosophy
 
-- 🚀 Passionate **Software Engineer** focused on building scalable, real-world solutions  
-- 🌱 Actively practicing **Data Structures & Algorithms** on **LeetCode**  
-- 💬 Ask me about **Web Development, Backend Systems, and DSA**  
-- 🧠 Believe in *continuous learning and clean code*  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Core**
-- JavaScript (ES6+), TypeScript
-- C++, Java
-
-**Web & Backend**
-- Node.js, Express.js
-- MongoDB, REST APIs
-
-**Tools & Platforms**
-- Git & GitHub
-- Linux
-- Postman
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshul-devloper&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-devloper&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 Problem Solving
-
-- 🟢 Regularly solving problems on **LeetCode**
-- ⚡ Strong grasp of **Arrays, Strings, Recursion, Trees, Graphs**
-- 🎯 Focused on writing **optimized and readable solutions**
-
----
-
-## 😄 A Little Fun
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" />
-  <b><i>"Hard work beats talent when talent doesn't work hard."</i></b>
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" />
-</p>
+> *Simplicity, correctness, and scalability matter more than cleverness.*
 
 ---
 
 <div align="center">
-  🚀 Thanks for visiting my GitHub profile!  
-  <br/>
-  Feel free to explore, connect, and collaborate 😄
+
+Open to backend, platform, and system‑driven engineering roles.
+
 </div>
